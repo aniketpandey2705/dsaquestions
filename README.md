@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/aniketpandey2705/dsaquestions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0414-third-maximum-number](https://github.com/aniketpandey2705/dsaquestions/tree/master/0414-third-maximum-number) |
 | [0904-fruit-into-baskets](https://github.com/aniketpandey2705/dsaquestions/tree/master/0904-fruit-into-baskets) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/aniketpandey2705/dsaquestions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Divide and Conquer
 |  |
 | ------- |
