@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/aniketpandey2705/dsaquestions/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/aniketpandey2705/dsaquestions/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aniketpandey2705/dsaquestions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0268-missing-number](https://github.com/aniketpandey2705/dsaquestions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/aniketpandey2705/dsaquestions/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/aniketpandey2705/dsaquestions/tree/master/0414-third-maximum-number) |
 | [0904-fruit-into-baskets](https://github.com/aniketpandey2705/dsaquestions/tree/master/0904-fruit-into-baskets) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/aniketpandey2705/dsaquestions/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aniketpandey2705/dsaquestions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0268-missing-number](https://github.com/aniketpandey2705/dsaquestions/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/aniketpandey2705/dsaquestions/tree/master/0414-third-maximum-number) |
 ## Heap (Priority Queue)
 |  |
@@ -34,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/aniketpandey2705/dsaquestions/tree/master/0268-missing-number) |
 | [0904-fruit-into-baskets](https://github.com/aniketpandey2705/dsaquestions/tree/master/0904-fruit-into-baskets) |
 ## Sliding Window
 |  |
@@ -43,10 +46,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/aniketpandey2705/dsaquestions/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/aniketpandey2705/dsaquestions/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/aniketpandey2705/dsaquestions/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/aniketpandey2705/dsaquestions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/aniketpandey2705/dsaquestions/tree/master/0283-move-zeroes) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/aniketpandey2705/dsaquestions/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/aniketpandey2705/dsaquestions/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
