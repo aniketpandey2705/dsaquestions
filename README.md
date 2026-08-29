@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/aniketpandey2705/dsaquestions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/aniketpandey2705/dsaquestions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/aniketpandey2705/dsaquestions/tree/master/0189-rotate-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/aniketpandey2705/dsaquestions/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aniketpandey2705/dsaquestions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/aniketpandey2705/dsaquestions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/aniketpandey2705/dsaquestions/tree/master/0283-move-zeroes) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/aniketpandey2705/dsaquestions/tree/master/0209-minimum-size-subarray-sum) |
 | [0904-fruit-into-baskets](https://github.com/aniketpandey2705/dsaquestions/tree/master/0904-fruit-into-baskets) |
 ## Math
 |  |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/aniketpandey2705/dsaquestions/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/aniketpandey2705/dsaquestions/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
@@ -83,4 +86,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/aniketpandey2705/dsaquestions/tree/master/0169-majority-element) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/aniketpandey2705/dsaquestions/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
