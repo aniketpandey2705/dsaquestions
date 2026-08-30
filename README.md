@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/aniketpandey2705/dsaquestions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/aniketpandey2705/dsaquestions/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/aniketpandey2705/dsaquestions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/aniketpandey2705/dsaquestions/tree/master/0169-majority-element) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/aniketpandey2705/dsaquestions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/aniketpandey2705/dsaquestions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/aniketpandey2705/dsaquestions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aniketpandey2705/dsaquestions/tree/master/0215-kth-largest-element-in-an-array) |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/aniketpandey2705/dsaquestions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/aniketpandey2705/dsaquestions/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/aniketpandey2705/dsaquestions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/aniketpandey2705/dsaquestions/tree/master/0283-move-zeroes) |
@@ -93,4 +96,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/aniketpandey2705/dsaquestions/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/aniketpandey2705/dsaquestions/tree/master/0560-subarray-sum-equals-k) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/aniketpandey2705/dsaquestions/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/aniketpandey2705/dsaquestions/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
