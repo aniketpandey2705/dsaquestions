@@ -9,7 +9,7 @@ public:
             if(nums[i]<0){
                 negative.push_back(nums[i]);
             }
-            if(nums[i]>0){
+            else{
                 positive.push_back(nums[i]);
             }
         }
