@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/aniketpandey2705/dsaquestions/tree/master/1672-richest-customer-wealth) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/aniketpandey2705/dsaquestions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/aniketpandey2705/dsaquestions/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/aniketpandey2705/dsaquestions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/aniketpandey2705/dsaquestions/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/aniketpandey2705/dsaquestions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/aniketpandey2705/dsaquestions/tree/master/0283-move-zeroes) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/aniketpandey2705/dsaquestions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Binary Search
 |  |
 | ------- |
@@ -109,4 +111,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/aniketpandey2705/dsaquestions/tree/master/2091-removing-minimum-and-maximum-from-array) |
+## Simulation
+|  |
+| ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/aniketpandey2705/dsaquestions/tree/master/2149-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
