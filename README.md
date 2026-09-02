@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/aniketpandey2705/dsaquestions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/aniketpandey2705/dsaquestions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/aniketpandey2705/dsaquestions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3875-construct-uniform-parity-array-i](https://github.com/aniketpandey2705/dsaquestions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/aniketpandey2705/dsaquestions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/aniketpandey2705/dsaquestions/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/aniketpandey2705/dsaquestions/tree/master/0371-sum-of-two-integers) |
+| [3875-construct-uniform-parity-array-i](https://github.com/aniketpandey2705/dsaquestions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
 |  |
 | ------- |
