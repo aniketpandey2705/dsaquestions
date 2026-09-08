@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/aniketpandey2705/dsaquestions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/aniketpandey2705/dsaquestions/tree/master/0189-rotate-array) |
+| [0258-add-digits](https://github.com/aniketpandey2705/dsaquestions/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/aniketpandey2705/dsaquestions/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/aniketpandey2705/dsaquestions/tree/master/0371-sum-of-two-integers) |
 | [3875-construct-uniform-parity-array-i](https://github.com/aniketpandey2705/dsaquestions/tree/master/3875-construct-uniform-parity-array-i) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/aniketpandey2705/dsaquestions/tree/master/0258-add-digits) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/aniketpandey2705/dsaquestions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Dynamic Programming
 |  |
@@ -140,4 +142,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aniketpandey2705/dsaquestions/tree/master/0003-longest-substring-without-repeating-characters) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/aniketpandey2705/dsaquestions/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
