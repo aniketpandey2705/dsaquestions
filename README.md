@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/aniketpandey2705/dsaquestions/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/aniketpandey2705/dsaquestions/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/aniketpandey2705/dsaquestions/tree/master/0371-sum-of-two-integers) |
+| [3870-count-commas-in-range](https://github.com/aniketpandey2705/dsaquestions/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/aniketpandey2705/dsaquestions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
 |  |
