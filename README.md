@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/aniketpandey2705/dsaquestions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aniketpandey2705/dsaquestions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/aniketpandey2705/dsaquestions/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/aniketpandey2705/dsaquestions/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/aniketpandey2705/dsaquestions/tree/master/0414-third-maximum-number) |
 ## Heap (Priority Queue)
 |  |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/aniketpandey2705/dsaquestions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/aniketpandey2705/dsaquestions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/aniketpandey2705/dsaquestions/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/aniketpandey2705/dsaquestions/tree/master/0389-find-the-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/aniketpandey2705/dsaquestions/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/aniketpandey2705/dsaquestions/tree/master/0904-fruit-into-baskets) |
 ## Sliding Window
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/aniketpandey2705/dsaquestions/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/aniketpandey2705/dsaquestions/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/aniketpandey2705/dsaquestions/tree/master/0371-sum-of-two-integers) |
+| [0389-find-the-difference](https://github.com/aniketpandey2705/dsaquestions/tree/master/0389-find-the-difference) |
 ## Matrix
 |  |
 | ------- |
@@ -143,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aniketpandey2705/dsaquestions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0389-find-the-difference](https://github.com/aniketpandey2705/dsaquestions/tree/master/0389-find-the-difference) |
 ## Number Theory
 |  |
 | ------- |
