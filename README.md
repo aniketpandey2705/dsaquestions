@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/aniketpandey2705/dsaquestions/tree/master/0031-next-permutation) |
+| [0048-rotate-image](https://github.com/aniketpandey2705/dsaquestions/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/aniketpandey2705/dsaquestions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/aniketpandey2705/dsaquestions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/aniketpandey2705/dsaquestions/tree/master/0088-merge-sorted-array) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/aniketpandey2705/dsaquestions/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/aniketpandey2705/dsaquestions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/aniketpandey2705/dsaquestions/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/aniketpandey2705/dsaquestions/tree/master/0258-add-digits) |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/aniketpandey2705/dsaquestions/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/aniketpandey2705/dsaquestions/tree/master/0073-set-matrix-zeroes) |
 | [1672-richest-customer-wealth](https://github.com/aniketpandey2705/dsaquestions/tree/master/1672-richest-customer-wealth) |
 ## Counting
