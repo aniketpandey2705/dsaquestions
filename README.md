@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0031-next-permutation](https://github.com/aniketpandey2705/dsaquestions/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/aniketpandey2705/dsaquestions/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/aniketpandey2705/dsaquestions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/aniketpandey2705/dsaquestions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/aniketpandey2705/dsaquestions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/aniketpandey2705/dsaquestions/tree/master/0088-merge-sorted-array) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/aniketpandey2705/dsaquestions/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/aniketpandey2705/dsaquestions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/aniketpandey2705/dsaquestions/tree/master/0073-set-matrix-zeroes) |
 | [1672-richest-customer-wealth](https://github.com/aniketpandey2705/dsaquestions/tree/master/1672-richest-customer-wealth) |
 ## Counting
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/aniketpandey2705/dsaquestions/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/aniketpandey2705/dsaquestions/tree/master/0258-add-digits) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/aniketpandey2705/dsaquestions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Dynamic Programming
