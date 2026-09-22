@@ -3,7 +3,7 @@ public:
     void setZeroes(vector<vector<int>>& matrix) {
         int m=matrix.size();
         int n=matrix[0].size();
-
+        // O(N^2) SOLUTION
         vector<int> row(n);
         vector<int> col(m);
         for(int i =0; i<m;i++){
